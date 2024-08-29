@@ -33,8 +33,7 @@ Analysis of Associations:
 
 Profits (log): The natural logarithm will provide this company with superbly high profits. The descriptive statistics display the profit levels spread in the data set with additional metrics such as mean and median to give a clear picture about the average of profit levels.  
 Training Investments: Descriptive statistics on investments for training. These statistics give us an idea on the distribution and the variability of the training spending among firms indicating what the range is for investment and the measures of central tendency. 
-Equipment Investments: Same as training, investment figures give the spread and concentrates distribution of investment in capital materials among the companies. Firm  
-Age: Descriptive statistics for the age of firms. This component measures the time passed since the date of establishment of firms, and the data can be used to determine the number of firms in different age groups.  
+Equipment Investments: Same as training, investment figures give the spread and concentrates distribution of investment in capital materials among the companies. Firm Age: Descriptive statistics for the age of firms. This component measures the time passed since the date of establishment of firms, and the data can be used to determine the number of firms in different age groups.  
 Employees (log): The natural logarithm of the number of employees. These statistics inform on the firm size distribution, which is the number of employees that are used to measure the typical size of firms in the dataset.
 
 
