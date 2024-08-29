@@ -1,10 +1,3 @@
-
-
-#Skeleton code for Data Analysis Project: EC:6062
-
-#Student Name: Sai Srujana P H
-#Student ID: 22077995
-
 # The project focuses on multiple regression analysis, using firm level data.
 # To complete the project, you need to have the following packages installed.
 
@@ -268,5 +261,4 @@ summary(control_var, robust=T)
 summary(small_firm_model, robust=T)
 summary(large_firm_model, robust=T)
 
-#Well done, you are done.  Ensure to upload this script with your Report
 
